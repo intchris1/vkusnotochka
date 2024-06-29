@@ -1,0 +1,10 @@
+go 1.22.3
+
+use (
+	./vkusnotochka-common
+	./vkusnotochka-gateway
+	./vkusnotochka-kitchen
+	./vkusnotochka-orders
+	./vkusnotochka-payments
+	./vkusnotochka-stock
+)
